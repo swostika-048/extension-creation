@@ -179,4 +179,5 @@ cython_debug/
 /.vscode-test.mjs
 /vsc-extension-quickstart.md
 /.eslintrc.json
+/.vscodeignore/
 
