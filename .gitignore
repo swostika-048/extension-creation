@@ -167,7 +167,7 @@ cython_debug/
 **/build1/
 **/.vscode/
 **/node_modules/
-**/vscodeignore/
+**/.vscodeignore/
 **/.vscode-test.mjs/
 **/vsc-extension-quickstart.md/
 **/.eslintrc.json/
