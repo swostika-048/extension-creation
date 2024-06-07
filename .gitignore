@@ -171,3 +171,12 @@ cython_debug/
 **/.vscode-test.mjs/
 **/vsc-extension-quickstart.md/
 **/.eslintrc.json/
+/build/
+/build1/
+/.vscode/
+/node_modules/
+/vscodeignore/
+/.vscode-test.mjs
+/vsc-extension-quickstart.md
+/.eslintrc.json
+
